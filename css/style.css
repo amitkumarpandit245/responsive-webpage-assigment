@@ -1,0 +1,38 @@
+.bg-dark
+{
+    background-color:rgb(16, 25, 53) !important;
+    border-bottom: 2px solid brown;
+}
+.navbar-brand img
+{
+    height: 10vh;
+    width: 5vw;
+}
+
+.footer-section
+{
+    background-color: olive;
+}
+.nav-item:hover
+{
+    background-color: brown !important;
+}
+.dropdown-item
+{
+    color: rgb(14, 135, 241);
+}
+.dropdown-item dropdown-item:hover
+{
+    background-color: brown !important;
+}
+.dropdown-menu{
+    background-color: rgb(16, 25, 53);
+}
+.nav-link
+{
+    color: rgb(14, 135, 241) !important;
+}
+.dropdown-menu a:hover
+{
+    background-color: brown;
+}
